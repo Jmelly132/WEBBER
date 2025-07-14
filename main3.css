@@ -24,3 +24,7 @@ th {
 body {
     background-color: lightyellow;
 }
+body:hover  {
+    color: red;
+
+}
